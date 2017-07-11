@@ -1,0 +1,19 @@
+{
+  "name": "city_movil",
+  "version": "1.0.0",
+  "description": "City Movil Microweb",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroHTadinoM/city_movil.git"
+  },
+  "author": "Alejandro H Tadino M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroHTadinoM/city_movil/issues"
+  },
+  "homepage": "https://github.com/AlejandroHTadinoM/city_movil#readme"
+}
